@@ -6,7 +6,7 @@
 - Dr. Joao Faria Martins (Leeds)
 - Prof. Paul Martin (Leeds, Project Lead)
 - Prof. Jiannis Pachos (Leeds)
-- Prof. Eric Rowell (Leeds)
+- Prof. Eric Rowell (Leeds, Royal Society Wolfson Fellow; and Texas A&M)
 - Prof. Christoph Schweigert (Hamburg, Project Lead)
 - Prof. Paul Wedrich (Hamburg)
 - TBC
