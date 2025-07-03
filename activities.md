@@ -4,7 +4,7 @@
 Here we describe the activities undertaken as part of this project. These are to be confirmed.
 
 ## Related Activities in Leeds
--[Leeds Algebra Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/algebra/)
+- [Leeds Algebra Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/algebra/)
 
 ## Related Activities in Hamburg
--[Research Seminar on Quantum Topology and Categorification](https://www.math.uni-hamburg.de/home/wedrich/ResSem.html)
+- [Research Seminar on Quantum Topology and Categorification](https://www.math.uni-hamburg.de/home/wedrich/ResSem.html)
