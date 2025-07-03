@@ -1,4 +1,4 @@
-[MIQC](https://benjimorris.github.io/miqc)  |  [Research](https://benjimorris.github.io/miqc/research.html)  |  [Activities](https://benjimorris.github.io/miqc/activities.html)  |  [People](https://benjimorris.github.io/miqc/people.html) 
+[MIQC](https://benjimorris.github.io/miqc)  |  [Research](https://benjimorris.github.io/miqc/research.html)  |  [Activities](https://benjimorris.github.io/miqc/activities.html)  |  [People](https://benjimorris.github.io/miqc/people.html) | [Sister Cities](https://benjimorris.github.io/miqc/twins.html)
 
 # Mathematics and Implementation of Quantum Computing
 
