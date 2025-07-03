@@ -1,2 +1,1 @@
-# MIQC
-Repository for Mathematics and Implementation of Quantum Computing project
+# Mathematics and Implemantation of Qunatum Computing
