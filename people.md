@@ -3,8 +3,8 @@
 # People
 
 ## Faculty
-- Prof. Paul Martin (Leeds, Project Lead)
 - Dr. Joao Faria Martins (Leeds)
+- Prof. Paul Martin (Leeds, Project Lead)
 - Prof. Jiannis Pachos (Leeds)
 - Prof. Eric Rowell (Leeds)
 - Prof. Christoph Schweigert (Hamburg, Project Lead)
