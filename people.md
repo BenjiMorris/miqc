@@ -12,7 +12,7 @@
 - TBC
 
 ## Postdoctoral Researchers
-- Peter Huston (Leeds)
+- Dr. Peter Huston (Leeds)
 - TBC
 
 ## Postgraduate Researchers
