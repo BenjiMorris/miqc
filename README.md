@@ -2,5 +2,4 @@
 
 # Mathematics and Implemantation of Qunatum Computing
 
-![](pictures/Pic2.jpg)
 
