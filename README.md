@@ -8,5 +8,5 @@ Mathematics and Implementation of Quantum Computing (MIQC for short) is a collab
 
 
 
-![](Pictures/Peachleedshamburg.png)
+![](Pictures/Peachleedshamburg2.png)
 
