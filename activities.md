@@ -10,6 +10,8 @@
 
 ## Related Activities in Leeds
 - [Leeds Algebra Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/algebra/)
+- [Mathematical Physics at Leeds](https://anupanand.space/maple/)
 
 ## Related Activities in Hamburg
 - [Research Seminar on Quantum Topology and Categorification](https://www.math.uni-hamburg.de/home/wedrich/ResSem.html)
+- 
