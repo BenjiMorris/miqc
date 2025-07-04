@@ -6,6 +6,7 @@
 ### To be announced.
 
 ## Past Activities
+- 27/06/25 Planning Meeting (Online)
 
 ## Related Activities in Leeds
 - [Leeds Algebra Seminar](https://mathsseminars.leeds.ac.uk/seminarseries/algebra/)
