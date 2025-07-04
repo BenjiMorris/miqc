@@ -20,3 +20,7 @@
 - Benjamin Morris (Leeds)
 - TBC
 
+## Related Grants/Research Groups
+- [Combinatorial Representation Theory (Leeds)](https://eps.leeds.ac.uk/faculty-engineering-physical-sciences/dir-record/research-projects/4483/combinatorial-representation-theory-algebra-and-its-interfaces-with-geometry-topology-and-combinatorics)
+- [Leeds Theoretical Physics Group](https://theory.leeds.ac.uk/)
+- [CRC1624: Higher Structures, Moduli Spaces and Integrability](https://www.sfb1624.uni-hamburg.de/)
