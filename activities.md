@@ -1,4 +1,4 @@
-[MIQC](https://benjimorris.github.io/miqc)  |  [Research](https://benjimorris.github.io/miqc/research.html)  |  [Activities](https://benjimorris.github.io/miqc/activities.html)  |  [People](https://benjimorris.github.io/miqc/people.html) 
+[MIQC](https://benjimorris.github.io/miqc)  |  [Research](https://benjimorris.github.io/miqc/research.html)  |  [Activities](https://benjimorris.github.io/miqc/activities.html)  |  [People](https://benjimorris.github.io/miqc/people.html) | [Sister Cities](https://benjimorris.github.io/miqc/twins.html)
 
 # Activities
 Keep up to date with activities by viewing our [overleaf project](https://www.overleaf.com/read/yfzdrqjrqgzp#70a7f9).
