@@ -7,7 +7,7 @@
 Organisers: Eric Rowell (Texas A&M and Leeds), Ben Morris (Leeds), Paul Martin
 
 
-# Speakers:
+# Provisional list of Speakers:
 
 Fiona Torzewska (Bristol)
 
@@ -17,7 +17,7 @@ Aatmun Baxi (Texas A&M)
 
 Joao Faria Martins (Leeds, Maths)
 
-Isabela Recio (Hamburg, TBC)
+Isabela Recio and/or Simon Lentner (Hamburg, TBC)
 
 Jie Ren (Leeds, Physics, TBC)
 
