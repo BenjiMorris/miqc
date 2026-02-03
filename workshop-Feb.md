@@ -16,20 +16,16 @@ All those interested are welcome to attend. (All coordinates and details will be
 
 | Speaker | Time | Title |
 |-|-|-|
-|[Jie Ren]([url](https://theory.leeds.ac.uk/jie-ren/)) (Leeds, Quantum group)| 10:00-11:00| TBA|
+|[Jie Ren](https://theory.leeds.ac.uk/jie-ren/) (Leeds, quantum group)| 10:00-11:00| TBA|
 
-Fiona Torzewska (Bristol)
+|[Fiona Torzewska](https://fionatorzewska.github.io/) (Bristol)| | Comonoidal structures on 2-categories and tensor products of 2-representations |
 
-Peter Huston (Leeds, Maths)
+|Peter Huston (Leeds, Maths)|||
 
-Aatmun Baxi (Texas A&M) 
+|Aatmun Baxi (Texas A&M)||| 
 
-Joao Faria Martins (Leeds, Maths)
+|Joao Faria Martins (Leeds, Maths)|||
 
-Isabela Recio and/or Simon Lentner (Hamburg, TBC)
-
-Jie Ren (Leeds, Physics, TBC)
-
-Ben Morris (Leeds, Maths, TBC) 
+|Simon Lentner (Hamburg)|||
 
 ...
