@@ -15,7 +15,7 @@ All those interested are welcome to attend. (All coordinates and details will be
 # Provisional Schedule:
 
 | Time | Speaker |  Title |
-|:---:|:---|:---:|
+|:---:|:---:|:---:|
 |10:00-11:00| [Jie Ren](https://theory.leeds.ac.uk/jie-ren/) (Leeds, quantum group)| TBA|
 |11:00-11:30 |[Fiona Torzewska](https://fionatorzewska.github.io/) (Bristol)| Comonoidal structures on 2-categories and tensor products of 2-representations |
 |13:00-13:30 | [Peter Huston](https://sites.google.com/view/pehustonmath/home) (Leeds, Maths)|  TBA|
