@@ -12,7 +12,11 @@ collects the informal talks of our visitors (and a few connecting locals) into a
 All those interested are welcome to attend. (All coordinates and details will be announced closer to the time.) 
 
 
-# Provisional list of Speakers:
+# Provisional Schedule:
+
+| Speaker | Time | Title |
+|-|-|-|
+|[Jie Ren]([url](https://theory.leeds.ac.uk/jie-ren/)) (Leeds, Quantum group)| 10:00-11:00| TBA|
 
 Fiona Torzewska (Bristol)
 
