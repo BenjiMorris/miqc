@@ -18,8 +18,8 @@ All those interested are welcome to attend. (All coordinates and details will be
 |-|-|-|
 |[Jie Ren](https://theory.leeds.ac.uk/jie-ren/) (Leeds, quantum group)| 10:00-11:00| TBA|
 |[Fiona Torzewska](https://fionatorzewska.github.io/) (Bristol)| 11:00-11:30 | Comonoidal structures on 2-categories and tensor products of 2-representations |
-|Peter Huston (Leeds, Maths)| 13:00-13:30| TBA|
-|Aatmun Baxi (Texas A&M)| 14:00-14:30| TBA| 
-|Simon Lentner (Hamburg)| 16:00-16:30| New non-semisimple modular tensor categories |
+|[Peter Huston](https://sites.google.com/view/pehustonmath/home) (Leeds, Maths)| 13:00-13:30| TBA|
+|[Aatmun Baxi](https://aatmunbaxi.netlify.app/) (Texas A&M)| 14:00-14:30| TBA| 
+|[Simon Lentner](http://simon.lentner.net/) (Hamburg)| 16:00-16:30| New non-semisimple modular tensor categories |
 
 ...
