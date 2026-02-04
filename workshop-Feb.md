@@ -26,3 +26,5 @@ All those interested are welcome to attend. (All coordinates and details will be
 |16:00-16:30 | [Simon Lentner](http://simon.lentner.net/) (Hamburg)| New non-semisimple modular tensor categories |
 
 ...
+
+It may be useful to note that there will also be a sister-workshop on 18th-19th February. Some details of that series are: [here](https://interplaysbhg.github.io/). 
