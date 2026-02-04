@@ -16,11 +16,11 @@ All those interested are welcome to attend. (All coordinates and details will be
 
 | Time | Speaker |  Title |
 |:---:|:---:|:---:|
-|10:00-11:00| [Jie Ren](https://theory.leeds.ac.uk/jie-ren/) (Leeds, quantum group), joint with the [MaPLe seminar](https://mathsseminars.leeds.ac.uk/seminarseries/maple/)| TBA|
+|10:00-11:00| [Jie Ren](https://theory.leeds.ac.uk/jie-ren/) (Leeds, quantum group),// joint with the [MaPLe seminar](https://mathsseminars.leeds.ac.uk/seminarseries/maple/)| TBA|
 |11:00-11:30 |[Fiona Torzewska](https://fionatorzewska.github.io/) (Bristol)| Comonoidal structures on 2-categories and tensor products of 2-representations |
 |13:00-13:30 | [Peter Huston](https://sites.google.com/view/pehustonmath/home) (Leeds, Maths)|  TBA|
 |14:00-14:30 |[Aatmun Baxi](https://aatmunbaxi.netlify.app/) (Texas A&M)|  TBA| 
-|15:00-16:00 |[Leandro Vendramin](https://leandrovendramin.org/) (VUB, Brussels), joint with the [algebra seminar](https://mathsseminars.leeds.ac.uk/seminarseries/algebra/)|  Fomin-Kirillov algebras | 
+|15:00-16:00 |[Leandro Vendramin](https://leandrovendramin.org/) (VUB, Brussels),// joint with the [algebra seminar](https://mathsseminars.leeds.ac.uk/seminarseries/algebra/)|  Fomin-Kirillov algebras | 
 |16:00-16:30 | [Simon Lentner](http://simon.lentner.net/) (Hamburg)| New non-semisimple modular tensor categories |
 
 ...
