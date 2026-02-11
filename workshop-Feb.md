@@ -19,7 +19,7 @@ All those interested are welcome to attend. (All coordinates and details will be
 |10:00-11:00| [Jie Ren](https://theory.leeds.ac.uk/jie-ren/) (Leeds, quantum group),|Quantum many-body mixed phase space revealed by hybrid feedback control|
 | | joint with the [MaPLe seminar](https://mathsseminars.leeds.ac.uk/seminarseries/maple/)| |
 |11:00-11:30 |[Fiona Torzewska](https://fionatorzewska.github.io/) (Bristol)| Comonoidal structures on 2-categories and tensor products of 2-representations |
-|13:00-13:30 | [Peter Huston](https://sites.google.com/view/pehustonmath/home) (Leeds, Maths)|  TBA|
+|13:00-13:30 | [Peter Huston](https://sites.google.com/view/pehustonmath/home) (Leeds, Maths)|  A primer on fusion 2-categories |
 |14:00-14:30 |[Aatmun Baxi](https://aatmunbaxi.netlify.app/) (Texas A&M)|  The condensed fibre product| 
 |15:00-16:00 |[Leandro Vendramin](https://leandrovendramin.org/) (VUB, Brussels), |Fomin-Kirillov algebras|
 |  |joint with the [algebra seminar](https://mathsseminars.leeds.ac.uk/seminarseries/algebra/)|  | 
