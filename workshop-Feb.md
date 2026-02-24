@@ -2,7 +2,7 @@
 
 # Workshop - February 17th 2026
 
-# [Mathematical and Physical underpinnings of Topological Quantum Computation](https://benjimorris.github.io/miqc/workshop-Feb/poster/Poster.pdf) at Leeds 2026
+# [Mathematical and Physical underpinnings of Topological Quantum Computation](https://benjimorris.github.io/miqc/poster/Poster.pdf) at Leeds 2026
 
 Organisers: Eric Rowell (Texas A&M and Leeds), Ben Morris (Leeds), Paul Martin (Leeds) 
 
@@ -29,4 +29,4 @@ All those interested are welcome to attend. (All coordinates and details will be
 
 It may be useful to note that there will also be a sister-workshop on 18th-19th February. Some details of that series are: [here](https://interplaysbhg.github.io/). 
 
-A [poster](https://benjimorris.github.io/miqc/workshop-Feb/poster/Poster.pdf) for the workshop is now available!
+A [poster](https://benjimorris.github.io/miqc/poster/Poster.pdf) for the workshop is now available!
