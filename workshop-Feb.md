@@ -28,3 +28,5 @@ All those interested are welcome to attend. (All coordinates and details will be
 ...
 
 It may be useful to note that there will also be a sister-workshop on 18th-19th February. Some details of that series are: [here](https://interplaysbhg.github.io/). 
+
+A poster for the workshop is now available!
